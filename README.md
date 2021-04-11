@@ -1,13 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Tsvetislav 👋
 
-<a href="https://github.com/selfrefactor/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsvetislavt99" />
-</a>
-<a href="https://github.com/selfrefactor/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvetislavt99" />
-</a>
+I am a very communicative person so please feel free to connect with me @ [![Linkedin Badge](https://img.shields.io/badge/-tsvetislavtodorov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsvetislav-todorov-7ba0b11a4/)](https://www.linkedin.com/in/tsvetislav-todorov-7ba0b11a4/) 
 
-```text
-- 🌱 I’m currently learning vanilla js in order to get started with react
-- 👯 I’m looking to collaborate on any open source JS project
-```
+### 🌱 currently learning vanilla js deeply in order to get started with react
+### 👨🏻‍💻 👨💻 looking for collab work on any JS project
