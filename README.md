@@ -5,8 +5,5 @@
 </a>
 <a href="https://github.com/selfrefactor/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvetislavt99" />
-</a><br />
-
-- 🌱 I’m currently learning vanilla js in order to get started with react
-<br />- 👯 I’m looking to collaborate on any open source JS project</p>
+</a>. - 🌱 I’m currently learning vanilla js in order to get started with react. - 👯 I’m looking to collaborate on any open source JS project</p>
 
