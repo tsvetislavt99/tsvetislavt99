@@ -7,7 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvetislavt99" />
 </a>
 
-
-<h4>- 🌱 I’m currently learning vanilla js in order to get started with react</h4>
-<h4>- 👯 I’m looking to collaborate on any open source JS project</h4>
-
+```text
+- 🌱 I’m currently learning vanilla js in order to get started with react
+- 👯 I’m looking to collaborate on any open source JS project
+```
