@@ -57,7 +57,7 @@
 |JS Advanced | <a href="https://softuni.bg/certificates/details/83913/4dab6755"> 👉📜✔️</a> |
 |JS Applications | <a href="https://softuni.bg/certificates/details/86845/b4345940"> 👉📜✔️</a> |
 |JS Back-End (Node) | <a href="https://softuni.bg/certificates/details/117873/b7ac2813"> 👉📜✔️</a> |
-|ReactJS |Soon 👨🏻‍💻 |
+|ReactJS |  <a href="https://softuni.bg/certificates/details/122748/e790ed9b"> 👉📜✔️</a> |
 
 
 
