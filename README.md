@@ -22,7 +22,7 @@
 ![NPM](https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Bulbasor](https://img.shields.io/badge/Bulbasor-blue?style=flat&logo=Parse.ly&logoColor=aqua)&nbsp;
+![Bulbasour](https://img.shields.io/badge/Bulbasour-blue?style=flat&logo=Parse.ly&logoColor=aqua)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp; \
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp; \
