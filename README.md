@@ -5,15 +5,6 @@
 🎓 &nbsp;I am a last year student, getting my Bachelor's degree in Maths & IT. \
 💻 &nbsp;Also studying for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni</a>.
 
-### :octocat: &nbsp;GitHub Analytics
-
-<p>
-<a align="left" href="https://github.com/tsvetislavt99">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tsvetislavt99&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tsvetislavt99&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
-
 ### 🛠 &nbsp;Tech Stack & Other Useful Proficiencies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
@@ -40,25 +31,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
   
 (One of these is actually a Pokemon)
-
-
-
-
-### 🎓 &nbsp;Passed Courses and their Certificates
-
-|**Courses**|**Certificates**|
-|:---|:---|
-|Programming Basics with Java | <a href="https://softuni.bg/certificates/details/68720/5c2cf3a8"> 👉📜✔️</a> |
-|Java Fundamentals | <a href="https://softuni.bg/certificates/details/74860/67435cf6"> 👉📜✔️</a> |
-|Java Advanced | <a href="https://softuni.bg/certificates/details/80779/9911ab91"> 👉📜✔️</a> |
-|Java OOP | <a href="https://softuni.bg/certificates/details/80624/aee3d7a8"> 👉📜✔️</a> |
-|Learning SQL Programming | <a href="https://www.linkedin.com/learning/certificates/e783dbef8d438f639e7acbc5c9a99659bfdceff68a3200eab869ca184b59386e?trk=share_certificate"> 👉📜✔️</a> |
-|HTML & CSS | <a href="https://softuni.bg/certificates/details/91336/cc9871c3"> 👉📜✔️</a> |
-|JS Advanced | <a href="https://softuni.bg/certificates/details/83913/4dab6755"> 👉📜✔️</a> |
-|JS Applications | <a href="https://softuni.bg/certificates/details/86845/b4345940"> 👉📜✔️</a> |
-|JS Back-End (Node) | <a href="https://softuni.bg/certificates/details/117873/b7ac2813"> 👉📜✔️</a> |
-|ReactJS |  <a href="https://softuni.bg/certificates/details/122748/e790ed9b"> 👉📜✔️</a> |
-
 
 
 ### 🤝🏻  &nbsp;Connect with Me
