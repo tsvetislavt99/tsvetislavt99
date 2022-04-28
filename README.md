@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi, I'm Tsvetislav
-<em>Currently working as a Technical Support at <a href="https://www.linkedin.com/company/draftkings-inc-/mycompany/">DraftKings Inc.</a>.
+<em>Currently working as a Junior Developer at <a href="https://bg.linkedin.com/company/mentormate">MentorMate</a>.
 
 ### <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="65px" align="center"/> &nbsp;About Me
 🎓 &nbsp;I am a last year student, getting my Bachelor's degree in Maths & IT. \
-💻 &nbsp;Also studying for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni</a>.
+💻 &nbsp;Also studied for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni</a>.
 
 ### 🛠 &nbsp;Tech Stack & Other Useful Proficiencies
 
