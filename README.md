@@ -1,8 +1,9 @@
-Hi, I'm Tsvetislav
-<em>Currently working as a Junior Developer at <a href="https://bg.linkedin.com/company/mentormate">MentorMate</a>.
+# Hi, I'm Tsvetislav
+
+### Currently working as a Junior Developer at <a href="https://bg.linkedin.com/company/mentormate">MentorMate</a>
 
 🎓 &nbsp;I am a last year student, getting my Bachelor's degree in Maths & IT. \
-💻 &nbsp;Also studied for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni</a>.
+💻 &nbsp;Also studied for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni
 
 ### 🛠 &nbsp;Tech Stack & Other Useful Proficiencies
 
