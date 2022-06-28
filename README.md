@@ -2,9 +2,6 @@
 
 ### Currently working as a Junior Developer at <a href="https://bg.linkedin.com/company/mentormate">MentorMate</a>
 
-🎓 &nbsp;I am a last year student, getting my Bachelor's degree in Maths & IT. \
-💻 &nbsp;Also studied for Full Stack JS Web Developer at <a href="https://softuni.bg/">SoftUni
-
 ### 🛠 &nbsp;Tech Stack & Other Useful Proficiencies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
